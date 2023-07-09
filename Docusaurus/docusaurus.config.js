@@ -122,7 +122,10 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sdn. Bhd.`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sdn. Bhd. --- Rev. 00 ---
+        Sun 09 Jul 2023 17:00
+`,
+        // START: Sun 09 Jul 2023 17:00
       },
       prism: {
         theme: lightCodeTheme,
