@@ -6,7 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Podunk City',                // Or else
+  tagline: 'North Rhine-Westphalia, Germany',      // Or else
+  favicon: 'img/favicon.ico',       // Or else
+  url: 'https://podunkcity.github.io',  // Or else
+  baseUrl: '/podunk/',            // Or else
+  organizationName: 'podunkcity',       // (Usually your GitHub org/user name)
+  projectName: 'Podunk',          // (Usually your repo name)
+  trailingSlash: true,              // "true/" or "false"
+
+
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
