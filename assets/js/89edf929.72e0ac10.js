@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[8752],{2610:u=>{u.exports=JSON.parse('{"label":"dullatip","permalink":"/podunk/blog/tags/dullatip","allTagsPath":"/podunk/blog/tags","count":2}')}}]);

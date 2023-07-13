@@ -2,11 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://podunkcity.github.io/podunk/blog</id>
     <title>Podunk City Blog</title>
-    <updated>2023-05-21T00:00:00.000Z</updated>
+    <updated>2023-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://podunkcity.github.io/podunk/blog"/>
     <subtitle>Podunk City Blog</subtitle>
     <icon>https://podunkcity.github.io/podunk/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[This is cbkadal!]]></title>
+        <id>https://podunkcity.github.io/podunk/blog/S230713-1</id>
+        <link href="https://podunkcity.github.io/podunk/blog/S230713-1"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is cbkadal!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, this is cbkadal!</p>]]></content>
+        <author>
+            <name>C. BinKadal</name>
+            <uri>https://github.com/cbkadal</uri>
+        </author>
+        <category label="cbkadal" term="cbkadal"/>
+        <category label="pertamax" term="pertamax"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is vrtass!]]></title>
+        <id>https://podunkcity.github.io/podunk/blog/S230713-2</id>
+        <link href="https://podunkcity.github.io/podunk/blog/S230713-2"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is vrtass!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, this is vrtass!</p>]]></content>
+        <author>
+            <name>Virtual Ass</name>
+            <uri>https://github.com/vrtass</uri>
+        </author>
+        <category label="vrtass" term="vrtass"/>
+        <category label="pertamax" term="pertamax"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is dullatip!]]></title>
+        <id>https://podunkcity.github.io/podunk/blog/S230713-3</id>
+        <link href="https://podunkcity.github.io/podunk/blog/S230713-3"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is dullatip!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, this is dullatip!</p>]]></content>
+        <author>
+            <name>Abdul Latip</name>
+            <uri>https://github.com/dullatip</uri>
+        </author>
+        <category label="dullatip" term="dullatip"/>
+        <category label="pertamax" term="pertamax"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is cbkadal, vrtass, dullatip!]]></title>
+        <id>https://podunkcity.github.io/podunk/blog/S230713-4</id>
+        <link href="https://podunkcity.github.io/podunk/blog/S230713-4"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is cbkadal, vrtass, dullatip!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, this is cbkadal, vrtass, dullatip!</p>]]></content>
+        <author>
+            <name>C. BinKadal</name>
+            <uri>https://github.com/cbkadal</uri>
+        </author>
+        <author>
+            <name>Virtual Ass</name>
+            <uri>https://github.com/vrtass</uri>
+        </author>
+        <author>
+            <name>Abdul Latip</name>
+            <uri>https://github.com/dullatip</uri>
+        </author>
+        <category label="cbkadal" term="cbkadal"/>
+        <category label="vrtass" term="vrtass"/>
+        <category label="dullatip" term="dullatip"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is demosuremo!]]></title>
+        <id>https://podunkcity.github.io/podunk/blog/S230713-5</id>
+        <link href="https://podunkcity.github.io/podunk/blog/S230713-5"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this is demosuremo!]]></summary>
+        <content type="html"><![CDATA[<p>Hello, this is demosuremo!</p>]]></content>
+        <author>
+            <name>Demo Suremo</name>
+            <uri>https://github.com/demosuremo</uri>
+        </author>
+        <category label="demosuremo" term="demosuremo"/>
+        <category label="pertamax" term="pertamax"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T230521-1]]></title>
         <id>https://podunkcity.github.io/podunk/blog/S230521-1</id>

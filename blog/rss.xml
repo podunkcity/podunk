@@ -4,10 +4,61 @@
         <title>Podunk City Blog</title>
         <link>https://podunkcity.github.io/podunk/blog</link>
         <description>Podunk City Blog</description>
-        <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[This is cbkadal!]]></title>
+            <link>https://podunkcity.github.io/podunk/blog/S230713-1</link>
+            <guid>https://podunkcity.github.io/podunk/blog/S230713-1</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is cbkadal!]]></description>
+            <content:encoded><![CDATA[<p>Hello, this is cbkadal!</p>]]></content:encoded>
+            <category>cbkadal</category>
+            <category>pertamax</category>
+        </item>
+        <item>
+            <title><![CDATA[This is vrtass!]]></title>
+            <link>https://podunkcity.github.io/podunk/blog/S230713-2</link>
+            <guid>https://podunkcity.github.io/podunk/blog/S230713-2</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is vrtass!]]></description>
+            <content:encoded><![CDATA[<p>Hello, this is vrtass!</p>]]></content:encoded>
+            <category>vrtass</category>
+            <category>pertamax</category>
+        </item>
+        <item>
+            <title><![CDATA[This is dullatip!]]></title>
+            <link>https://podunkcity.github.io/podunk/blog/S230713-3</link>
+            <guid>https://podunkcity.github.io/podunk/blog/S230713-3</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is dullatip!]]></description>
+            <content:encoded><![CDATA[<p>Hello, this is dullatip!</p>]]></content:encoded>
+            <category>dullatip</category>
+            <category>pertamax</category>
+        </item>
+        <item>
+            <title><![CDATA[This is cbkadal, vrtass, dullatip!]]></title>
+            <link>https://podunkcity.github.io/podunk/blog/S230713-4</link>
+            <guid>https://podunkcity.github.io/podunk/blog/S230713-4</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is cbkadal, vrtass, dullatip!]]></description>
+            <content:encoded><![CDATA[<p>Hello, this is cbkadal, vrtass, dullatip!</p>]]></content:encoded>
+            <category>cbkadal</category>
+            <category>vrtass</category>
+            <category>dullatip</category>
+        </item>
+        <item>
+            <title><![CDATA[This is demosuremo!]]></title>
+            <link>https://podunkcity.github.io/podunk/blog/S230713-5</link>
+            <guid>https://podunkcity.github.io/podunk/blog/S230713-5</guid>
+            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello, this is demosuremo!]]></description>
+            <content:encoded><![CDATA[<p>Hello, this is demosuremo!</p>]]></content:encoded>
+            <category>demosuremo</category>
+            <category>pertamax</category>
+        </item>
         <item>
             <title><![CDATA[T230521-1]]></title>
             <link>https://podunkcity.github.io/podunk/blog/S230521-1</link>
