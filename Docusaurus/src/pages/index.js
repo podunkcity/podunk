@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/appendix-a/">
+            to="/docs/">
             Cheat Sheet: 1 - 60; minutes ⏱️     
           </Link>
         </div>
@@ -51,9 +51,6 @@ export default function Home() {
 }
 
 // ZCZC
-// REV04: Wed 14 Jun 2023 14:00
-// REV03: Tue 30 May 2023 08:00
-// REV02: Tue 23 May 2023 20:00
-// REV01: Tue 09 May 2023 10:00
+// REV01: Thu 13 Jul 2023 18:00
 // START: Sun 07 May 2023 21:00
 
