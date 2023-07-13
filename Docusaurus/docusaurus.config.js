@@ -6,16 +6,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Podunk City',                // Or else
-  tagline: 'North Rhine-Westphalia, Germany',      // Or else
-  favicon: 'img/favicon.ico',       // Or else
-  url: 'https://podunk.vlsm.org',  // Or else
-  baseUrl: '/',            // Or else
-  // url: 'https://podunkcity.github.io',  // Or else
-  // baseUrl: '/podunk/',            // Or else
-  organizationName: 'podunkcity',       // (Usually your GitHub org/user name)
-  projectName: 'Podunk',          // (Usually your repo name)
-  trailingSlash: true,              // "true/" or "false"
+  title:   'Podunk City',                     // Or else
+  tagline: 'North Rhine-Westphalia, Germany', // Or else
+  favicon: 'img/favicon.ico',                 // Or else
+  // url:     'https://podunk.vlsm.org',         // Or else
+  // baseUrl: '/',                               // Or else
+  url:  'https://podunkcity.github.io',       // Or else
+  baseUrl: '/podunk/',                        // Or else
+  organizationName: 'podunkcity',             // (Usually your GitHub org/user name)
+  projectName:      'Podunk',                 // (Usually your repo name)
+  trailingSlash:    'true',                   // "true/" or "false"
+
+  onBrokenLinks: 'throw',                     // ZCZC Extra
+  onBrokenMarkdownLinks: 'warn',              // ZCZC Extra
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -58,24 +61,28 @@ const config = {
       // image: 'img/docusaurus-social-card.jpg',
       image: 'img/podunk2.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'HOME',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/podunk2.jpg',
+          alt:         'Logo',
+          src:         'img/podunk2.jpg',
           // src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
+            type:      'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            position:  'left',
+            label:     'General',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/podunkcity/podunk',
-            label: 'GitHub',
-            position: 'right',
+            to:        '/blog', 
+            label:     'Blog', 
+            position:  'left',
+          },
+          {
+            href:      'https://github.com/podunkcity/podunk/',
+            label:     'GitHub',
+            position:  'right',
           },
         ],
       },
@@ -117,14 +124,15 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/podunkcity/podunk',
+                href: 'https://github.com/podunkcity/podunk/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sdn. Bhd. --- Rev. 00 ---
-        Sun 09 Jul 2023 17:00
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- 
+        REV01: Thu 13 Jul 2023 16:00
 `,
+        // REV01: Thu 13 Jul 2023 16:00
         // START: Sun 09 Jul 2023 17:00
       },
       prism: {
