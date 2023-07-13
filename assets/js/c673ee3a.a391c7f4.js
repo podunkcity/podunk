@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[215],{3660:a=>{a.exports=JSON.parse('{"label":"Preparation","permalink":"/podunk/docs/tags/preparation","allTagsPath":"/podunk/docs/tags","count":1,"items":[{"id":"AP01/preparation","title":"01 Preparation","description":"Docusaurus Preparation","permalink":"/podunk/docs/AP01/preparation"}]}')}}]);
