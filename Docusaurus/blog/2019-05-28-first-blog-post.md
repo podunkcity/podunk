@@ -1,12 +1,13 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: SLUG1
+title: TITLE1
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: ANAME1
+  title: ATITLE1
+  url: https://github.com/
+  image_url: https://github.com/cbkadal.png
+tags: [T1, T2, T3]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+StarBucks ipsum dolor J.CO Do Not! McD sit amet Wendy’s Burger King. 
+KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.

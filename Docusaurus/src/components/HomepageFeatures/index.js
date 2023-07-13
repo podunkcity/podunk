@@ -4,42 +4,50 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Jolan Tru!',
+    img: require('@site/static/img/grogu.jpg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Qapla', this is the way!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: 'Do IT!',
+    description: 'This is how me do it!',
+    videoUrl: 'https://www.youtube.com/embed/jEoM3qan9Gs', 
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'I have spoken!',
+    img: require('@site/static/img/kuiil.jpg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+         Hello Docusaurus,<br />Good Bye Jekyll!
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+// function Feature({Svg, img,  title, description}) {
+function Feature({ Svg, img, title, description, videoUrl }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {img && <img className={styles.featureSvg} role="img" src={img} />}
+        {Svg && <Svg className={styles.featureSvg} role="img" />}
+        {videoUrl && (
+          <iframe
+            className={styles.featureVideo}
+            // width="560"
+            // height="315"
+            width="355"
+            height="200"
+            src={videoUrl}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
+        )}
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -62,3 +70,10 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+// REV06: Tue 30 May 2023 08:00
+// REV05: Thu 25 May 2023 07:00
+// REV04: Wed 24 May 2023 20:00
+// REV03: Wed 10 May 2023 05:00
+// REV01: Mon 08 May 2023 19:00
+// START: Sun 07 May 2023 21:00

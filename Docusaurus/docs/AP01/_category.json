@@ -1,0 +1,9 @@
+{
+  "label": "Appendix A",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Appendix A will describe the basics of developing Docusaurus in general 
+                    and VirtualBox in particular."
+  },
+}

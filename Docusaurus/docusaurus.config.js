@@ -9,12 +9,12 @@ const config = {
   title:   'Podunk City',                     // Or else
   tagline: 'North Rhine-Westphalia, Germany', // Or else
   favicon: 'img/favicon.ico',                 // Or else
-  url:     'https://dummy.github.io',         // Or else
-  baseUrl: '/',                               // Or else
+  // url:     'https://dummy.github.io',         // Or else
+  // baseUrl: '/',                               // Or else
   // url:     'https://podunk.vlsm.org',         // Or else
   // baseUrl: '/',                               // Or else
-  // url:  'https://podunkcity.github.io',       // Or else
-  // baseUrl: '/podunk/',                        // Or else
+  url:  'https://podunkcity.github.io',       // Or else
+  baseUrl: '/podunk/',                        // Or else
   organizationName: 'podunkcity',             // (Usually your GitHub org/user name)
   projectName:      'Podunk',                 // (Usually your repo name)
   trailingSlash:    'true',                   // "true/" or "false"
@@ -60,14 +60,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      // image: 'img/docusaurus-social-card.jpg',
       image: 'img/podunk2.jpg',
       navbar: {
         title: 'HOME',
         logo: {
           alt:         'Logo',
           src:         'img/podunk2.jpg',
-          // src: 'img/logo.svg',
         },
         items: [
           {
@@ -95,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'General',
                 to: '/docs/intro',
               },
             ],
