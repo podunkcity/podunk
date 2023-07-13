@@ -1,14 +1,20 @@
+cbkadal:
+  name: C. BinKadal
+  title: Sendirian Berhad
+  url: https://github.com/cbkadal
+  image_url: https://github.com/cbkadal.png
+
+dullatip:
+  name: Abdul Latip
+  title: Mr.
+  url: https://github.com/dullatip
+  image_url: https://github.com/dullatip.png
+
 endi:
   name: Endilie Yacop Sucipto
   title: Maintainer of Docusaurus
   url: https://github.com/endiliey
   image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
 
 slorber:
   name: Sébastien Lorber
@@ -16,15 +22,15 @@ slorber:
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
 
-cbkadal:
-  name: C. BinKadal
-  title: Sendirian Berhad
-  url: https://github.com/cbkadal
-  image_url: https://github.com/cbkadal.png
-
 vrtass:
   name: Virtual Ass
   title: Janitor
   url: https://github.com/vrtass
   image_url: https://github.com/vrtass.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
 
