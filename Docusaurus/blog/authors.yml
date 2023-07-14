@@ -22,6 +22,12 @@ endi:
   url: https://github.com/endiliey
   image_url: https://github.com/endiliey.png
 
+jwalker:
+  name: J. Walker
+  title: Box 7, Mawitaan, Bangalla
+  url: https://www.youtube.com/@johnniewalker8290
+  image_url: https://github.com/cbk2000/docubase/blob/feat/generate/static/img/jwalker.jpg?raw=true
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer

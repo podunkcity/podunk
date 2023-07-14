@@ -16,7 +16,6 @@ by BinKadal, Sdn. Bhd.
 - [docusaurus.config.js](https://docusaurus.io/docs/api/docusaurus-config)
 - [MD Front Matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter)
 - [GitHub Status](https://www.githubstatus.com/)
-- [DocuBase](https://cbk2000.github.io/docubase/)
 
 ## Site Links
 - [helloReact](/helloReact)
@@ -31,9 +30,9 @@ by BinKadal, Sdn. Bhd.
   - [DoIT](https://github.com/cbk2000/doit)
   - [Docusaurus Step by Step](https://github.com/cbk2000/docusaurus-step-by-step)
   - [Static File Hosting](https://github.com/cbk2000/static-file-hosting)
-  - [DocuDemo](https://github.com/cbk2000/docudemo)
 
 ## Trial History
+- Trial #06: [GitHub](https://github.com/cbkadal/231saurus/) --- [Web](https://cbkadal.github.io/231saurus/)
 - Trial #05: [GitHub](https://github.com/yforku/DocuDemo/) --- [Web](https://yforku.github.io/DocuDemo/)
 - Trial #04: [GitHub](https://github.com/yforku/docu4/) --- [Web](https://yforku.github.io/docu4/)
 - Trial #03: [GitHub](https://github.com/yforku/docu3/) --- [Web](https://yforku.github.io/docu3/)
@@ -42,7 +41,7 @@ by BinKadal, Sdn. Bhd.
 
 <hr />
 
-REV02: Fri 14 Jul 2023 09:00
+REV02: Fri 14 Jul 2023 19:00
 
 <!--
 REV01: Tue 20 Jun 2023 08:00

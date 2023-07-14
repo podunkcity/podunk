@@ -130,7 +130,7 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- 
-        REV02: Fri 14 Jul 2023 10:00
+        REV02: Fri 14 Jul 2023 19:00
 `,
         // REV01: Thu 13 Jul 2023 23:00
         // START: Sun 09 Jul 2023 17:00
