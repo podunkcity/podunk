@@ -25,6 +25,14 @@ by BinKadal, Sdn. Bhd.
 ## Files
 - [UU no. 11/1950: Pembentukan Propinsi Djawa Barat](/pdf/UU-1950-011-PEMBENTUKAN-PROPINSI-DJAWA-BARAT.pdf)
 
+## CBK2000
+- [CBK2000](https://github.com/orgs/cbk2000/repositories)
+  - [DocuBase](https://github.com/cbk2000/docubase)
+  - [DoIT](https://github.com/cbk2000/doit)
+  - [Docusaurus Step by Step](https://github.com/cbk2000/docusaurus-step-by-step)
+  - [Static File Hosting](https://github.com/cbk2000/static-file-hosting)
+  - [DocuDemo](https://github.com/cbk2000/docudemo)
+
 ## Trial History
 - Trial #05: [GitHub](https://github.com/yforku/DocuDemo/) --- [Web](https://yforku.github.io/DocuDemo/)
 - Trial #04: [GitHub](https://github.com/yforku/docu4/) --- [Web](https://yforku.github.io/docu4/)
@@ -34,13 +42,10 @@ by BinKadal, Sdn. Bhd.
 
 <hr />
 
-REV07: Tue 20 Jun 2023 08:00
+REV02: Fri 14 Jul 2023 09:00
 
 <!--
-REV06: Fri 02 Jun 2023 03:00
-REV05: Thu 01 Jun 2023 19:00
-REV03: Sun 28 May 2023 11:00
-REV01: Fri 26 May 2023 10:00
+REV01: Tue 20 Jun 2023 08:00
 START: Thu 25 May 2023 19:00
 -->
 
