@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/podunk/',                        // Or else
   organizationName: 'podunkcity',             // (Usually your GitHub org/user name)
   projectName:      'Podunk',                 // (Usually your repo name)
-  trailingSlash:    'true',                   // "true/" or "false"
+  trailingSlash:    'false',                   // "true/" or "false"
 
   onBrokenLinks: 'throw',                     // ZCZC Extra
   onBrokenMarkdownLinks: 'warn',              // ZCZC Extra
@@ -73,6 +73,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position:  'left',
             label:     'General',
+            to:        '/docs/',
           },
           {
             to:        '/blog', 
