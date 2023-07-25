@@ -184,7 +184,7 @@ import MyComponentSource from '!!raw-loader!/src/C00-hello.c';
 
 <hr />
 
-REV: 06 -- 02 Jun 2023
+REV07: Tue 25 Jul 2023 11:00
 
 <!--
 REV06: Fri 02 Jun 2023 16:00

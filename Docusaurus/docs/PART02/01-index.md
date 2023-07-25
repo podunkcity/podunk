@@ -9,11 +9,10 @@ KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.
 
 <hr />
 
-Rev. 01 -- 02 Jun 2023
+REV02: Tue 25 Jul 2023 11:00
 
 <!--
 REV01: Fri 02 Jun 2023 17:00
 START: Wed 24 May 2023 20:00
 -->
-
 

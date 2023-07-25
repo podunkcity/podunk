@@ -14,7 +14,7 @@ This GitHub repo can be used as a template for developing Docusaurus in general,
 
 <hr />
 
-REV01: Thu 13 Jul 2023 18:00
+REV02: Tue 25 Jul 2023 11:00
 
 <!--
 REV01: Thu 13 Jul 2023 18:00
