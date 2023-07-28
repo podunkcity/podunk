@@ -9,6 +9,13 @@ tags: [LINKS]
 # Ch04: LINKS
 by BinKadal, Sdn. Bhd.
 
+## [CBK2000](https://github.com/orgs/cbk2000/repositories)
+- [DoIT Revamp](https://github.com/cbk2000/doit-revamp)
+- [DocuBase](https://github.com/cbk2000/docubase)
+- [Docusaurus Step by Step](https://github.com/cbk2000/docusaurus-step-by-step)
+- [DoIT](https://github.com/cbk2000/doit)
+- [Static File Hosting](https://github.com/cbk2000/static-file-hosting)
+
 ## LINK1
 - [Assets](https://docusaurus.io/docs/markdown-features/assets)
 - [Code Blocks](https://docs.readme.com/rdmd/docs/code-blocks)
@@ -23,13 +30,6 @@ by BinKadal, Sdn. Bhd.
 
 ## Files
 - [UU no. 11/1950: Pembentukan Propinsi Djawa Barat](/pdf/UU-1950-011-PEMBENTUKAN-PROPINSI-DJAWA-BARAT.pdf)
-
-## CBK2000
-- [CBK2000](https://github.com/orgs/cbk2000/repositories)
-  - [DocuBase](https://github.com/cbk2000/docubase)
-  - [DoIT](https://github.com/cbk2000/doit)
-  - [Docusaurus Step by Step](https://github.com/cbk2000/docusaurus-step-by-step)
-  - [Static File Hosting](https://github.com/cbk2000/static-file-hosting)
 
 ## Trial History
 - Trial #06: [GitHub](https://github.com/cbkadal/231saurus/) --- [Web](https://cbkadal.github.io/231saurus/)
